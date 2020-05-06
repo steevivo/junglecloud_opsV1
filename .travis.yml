@@ -6,4 +6,4 @@ services:
 - docker
 
 scripts:
-- echo "build junglecloud"
+- echo "build junglecloud02"
